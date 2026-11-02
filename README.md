@@ -7,7 +7,7 @@ Engineering repository focused on practical AI integrations: Large Language Mode
 
 ---
 
-## 🤖 Modules & Architectures
+##  Modules & Architectures
 
 | Component | Architecture Pattern | File |
 | :--- | :--- | :--- |
